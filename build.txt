@@ -1,0 +1,21 @@
+CPU fan: $49.99
+https://www.bestbuy.com/site/cooler-master-hyper-212-rgb-black-edition-120mm-cpu-cooling-fan-jet-black/6506210.p?skuId=6506210
+
+case: $54.99
+https://www.bestbuy.com/site/gamdias-mars-e2-micro-atx-mini-tower-case-white/6457692.p?skuId=6457692
+
+motherboard: $159.99
+https://www.bestbuy.com/site/gigabyte-b650m-ds3h-socket-am5-usb-3-2-gen2-amd-motherboard-black/6523135.p?skuId=6523135
+
+CPU: $299.00
+https://www.bestbuy.com/site/amd-ryzen-5-7600x-6-core-12-thread-4-7ghz-5-3-ghz-max-boost-socket-am5-desktop-processor-silver/6519479.p?skuId=6519479
+
+SSD (1T): $99
+https://www.bestbuy.com/site/samsung-970-evo-plus-1tb-internal-ssd-pcie-gen-3-x4-nvme/6324470.p?skuId=6324470
+
+RAM (32G): $79.99
+https://www.bestbuy.com/site/corsair-vengeance-lpx-cmk32gx4m2e3200c16-32gb-2pk-x-16gb-3200mhz-ddr4-c16-dimm-desktop-memory/6448611.p?skuId=6448611
+
+Total: $868.93
+
+RTX2080 + 650W power supply: $250 - $300
