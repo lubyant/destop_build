@@ -1,21 +1,25 @@
-CPU fan: $49.99
-https://www.bestbuy.com/site/cooler-master-hyper-212-rgb-black-edition-120mm-cpu-cooling-fan-jet-black/6506210.p?skuId=6506210
 
-case: $54.99
-https://www.bestbuy.com/site/gamdias-mars-e2-micro-atx-mini-tower-case-white/6457692.p?skuId=6457692
+CPU fan: $44
+https://www.amazon.com/quiet-BK007-Elegant-Surface-Technology/dp/B087VL2Z21/ref=sr_1_3?crid=1L01QKHL80RC4&keywords=cpu%2Bfan&qid=1700780512&sprefix=cpu%2Bfan%2Caps%2C236&sr=8-3&th=1
 
-motherboard: $159.99
-https://www.bestbuy.com/site/gigabyte-b650m-ds3h-socket-am5-usb-3-2-gen2-amd-motherboard-black/6523135.p?skuId=6523135
+case: $49
+https://www.amazon.com/Thermaltake-Tempered-Gaming-Computer-CA-1J4-00S1WN-01/dp/B079G3TNDM/ref=sr_1_1?crid=35XJ8RENHDPVY&keywords=desktop%2Bcase&qid=1700779709&refinements=p_n_feature_browse-bin%3A23771390011&rnid=23771380011&s=pc&sprefix=desktop%2Bcase%2Celectronics%2C136&sr=1-1&th=1
 
-CPU: $299.00
-https://www.bestbuy.com/site/amd-ryzen-5-7600x-6-core-12-thread-4-7ghz-5-3-ghz-max-boost-socket-am5-desktop-processor-silver/6519479.p?skuId=6519479
+motherboard: $119.99
+https://www.amazon.com/ASUS-TUF-GAMING-B760M-PLUS-WIFI/dp/B0BR8TRLRB/ref=sr_1_1?crid=G7TRNQZXF14L&keywords=b760m&qid=1700778638&refinements=p_n_feature_nine_browse-bin%3A2057507011&rnid=2057420011&s=pc&sprefix=b760m%2Caps%2C338&sr=1-1&ufe=app_do%3Aamzn1.fos.17d9e15d-4e43-4581-b373-0e5c1a776d5d
 
-SSD (1T): $99
-https://www.bestbuy.com/site/samsung-970-evo-plus-1tb-internal-ssd-pcie-gen-3-x4-nvme/6324470.p?skuId=6324470
+CPU: $200
+https://www.bestbuy.com/site/intel-core-i5-13400f-13th-gen-10-core-6-p-cores-4-e-cores-20mb-cache-2-5-to-4-6-ghz-desktop-processor-grey-black-gold/6530251.p?skuId=6530251
+
+SSD (1T): $78
+https://www.amazon.com/SAMSUNG-PCIe-Internal-Gaming-MZ-V8P1T0B/dp/B08GLX7TNT/ref=sr_1_5?crid=2RRA2NVB3P61R&keywords=ssd+nvme+1tb&qid=1700780238&sprefix=ssd+nvme%2Caps%2C161&sr=8-5&ufe=app_do%3Aamzn1.fos.17d9e15d-4e43-4581-b373-0e5c1a776d5d
 
 RAM (32G): $79.99
-https://www.bestbuy.com/site/corsair-vengeance-lpx-cmk32gx4m2e3200c16-32gb-2pk-x-16gb-3200mhz-ddr4-c16-dimm-desktop-memory/6448611.p?skuId=6448611
+https://www.amazon.com/Corsair-VENGEANCE-3200MHz-Compatible-Computer/dp/B081XWLQKS/ref=sr_1_4?crid=330D4VNHD294C&keywords=ram%2B3200%2Bhz&qid=1700780094&sprefix=ram%2B3200%2Bhz%2Caps%2C111&sr=8-4&ufe=app_do%3Aamzn1.fos.17d9e15d-4e43-4581-b373-0e5c1a776d5d&th=1
 
-Total: $743.95
+paster: $8
+https://www.amazon.com/SYY-Compound-Processor-Performance-Interface/dp/B07BNDPKL5/ref=sr_1_1_sspa?crid=3SXKKVZ286JOQ&keywords=silicone%2Bpaste%2Bcpu&qid=1700780959&sprefix=silicone%2Bpaste%2Bcpu%2Caps%2C145&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+
+Total: []
 
 RTX2080 + 650W power supply: $250 - $300
